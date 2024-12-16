@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=glyad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **glyad/glyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
